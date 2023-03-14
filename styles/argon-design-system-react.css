@@ -5733,7 +5733,60 @@ a.badge-darker.focus {
 	background-color: #313b77;
 	border-color: #313b77;
 }
+.imac {
+  padding: 4% 6%;
+  margin: 0 auto;
+  max-width: 620px;
+}
 
+.screen {
+  background: #000;
+  /* for aspect ratio */
+  position: relative;
+  width: 100%;
+}
+
+.screen:before {
+  content: "";
+  display: block;
+  /* for aspect ratio ~3:5 */
+  padding-top: 60%;
+}
+
+.viewport {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: 4%;
+  background: #333;
+}
+
+/* Screenshot Hover Scroll Additions
+-------------------------------------------------------------- */
+
+.imac .viewport {
+  transition: background-position 3s ease;
+  background-position: 0 0;
+  background-size: 100% auto;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.imac:hover .viewport {
+  background-position: 0 100%;
+}
+
+.imac .viewport:after {
+  background: radial-gradient(circle at right bottom, transparent 75%, rgba(255, 255, 255, 0.05) 75%, transparent);
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
 .list-group-item-secondary {
 	color: #7f7f80;
 	background-color: #fcfcfd;
