@@ -1,10 +1,10 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-  name: "Brendan Glancy",
-  title: "Welcome.",
+  name: "Usama Yousuf",
+  title: "Hello, My Name is Usama Yousuf",
   description:
-    "I am Student / Software Developer, learning Full Stack Web Development and Cyber Security. I have experience building Applications with Vanilla JavaScript, React,  Vue,  Node,  Java,  Spring Boot, Python,  Django and some other cool libraries and frameworks.",
+    "Innovative frontend developer 1+year of experience in building and maintaining websites.I have extensive knowledge and Experience of MERN STACK, VueJs, NextJS, HTML, CSS. and JavaScript. Combined with my communication and problem-solving skills",
   resumeLink: "https://brendanglancy.github.io/Resume/",
 };
 
@@ -15,40 +15,38 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  instagram: "https://www.instagram.com/brendanglance/",
-  github: "https://github.com/brendanglancy",
-  linkedin: "https://www.linkedin.com/in/brendan-glancy/",
-  discord: "https://www.hackerrank.com/Bglance68",
-  blog: "https://brendanglancy.github.io/",
+  github: "https://github.com/musamayousuf",
+  linkedin: "https://www.linkedin.com/in/usama-yousuf6899b1203",
+  instagram: "https://www.instagram.com/musamayousuf/",
 };
 
 export const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY MERN STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   data: [
     {
-      title: "Full Stack Development",
+      title: "Mern Stack Development",
       lottieAnimationFile: "/lottie/webdev.json", // Path of Lottie Animation JSON File
-      skills: [
-        emoji(
-          "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications."
-        ),
-        emoji(
-          "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks."
-        ),
-        emoji(
-          "⚡ Cyber Security, HackTheBox Globally Ranked 534, Top 2% in PicoCTF 2022"
-        ),
-      ],
+      // skills: [
+      //   emoji(
+      //     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications."
+      //   ),
+      //   emoji(
+      //     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks."
+      //   ),
+      //   emoji(
+      //     "⚡ Cyber Security, HackTheBox Globally Ranked 534, Top 2% in PicoCTF 2022"
+      //   ),
+      // ],
       softwareSkills: [
-        {
-          skillName: "python",
-          fontAwesomeClassname: "logos:python",
-        },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "logos:java",
-        },
+        // {
+        //   skillName: "python",
+        //   fontAwesomeClassname: "logos:python",
+        // },
+        // {
+        //   skillName: "Java",
+        //   fontAwesomeClassname: "logos:java",
+        // },
         {
           skillName: "reactjs",
           fontAwesomeClassname: "vscode-icons:file-type-reactjs",
@@ -61,38 +59,38 @@ export const skillsSection = {
           skillName: "nodejs",
           fontAwesomeClassname: "logos:nodejs-icon",
         },
-        {
-          skillName: "astro",
-          fontAwesomeClassname: "vscode-icons:file-type-astro",
-        },
+        // {
+        //   skillName: "astro",
+        //   fontAwesomeClassname: "vscode-icons:file-type-astro",
+        // },
         {
           skillName: "npm",
           fontAwesomeClassname: "logos:npm-icon",
         },
-        {
-          skillName: "cpp",
-          fontAwesomeClassname: "logos:c-plusplus",
-        },
-        {
-          skillName: "php",
-          fontAwesomeClassname: "logos:php",
-        },
+        // {
+        //   skillName: "cpp",
+        //   fontAwesomeClassname: "logos:c-plusplus",
+        // },
+        // {
+        //   skillName: "php",
+        //   fontAwesomeClassname: "logos:php",
+        // },
         {
           skillName: "yarn",
           fontAwesomeClassname: "logos:yarn",
         },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "logos:postgresql",
-        },
-        {
-          skillName: "MySQL-icon",
-          fontAwesomeClassname: "logos:mysql-icon",
-        },
-        {
-          skillName: "Vercel",
-          fontAwesomeClassname: "logos:vercel-icon",
-        },
+        // {
+        //   skillName: "PostgreSQL",
+        //   fontAwesomeClassname: "logos:postgresql",
+        // },
+        // {
+        //   skillName: "MySQL-icon",
+        //   fontAwesomeClassname: "logos:mysql-icon",
+        // },
+        // {
+        //   skillName: "Vercel",
+        //   fontAwesomeClassname: "logos:vercel-icon",
+        // },
         {
           skillName: "NextJS",
           fontAwesomeClassname: "logos:nextjs-icon",
@@ -100,15 +98,15 @@ export const skillsSection = {
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "logos:mongodb-icon",
-        }, 
-        {
-          skillName: "Django",
-          fontAwesomeClassname: "logos:django-icon",
         },
         {
-          skillName: "spring-boot",
-          fontAwesomeClassname: "logos:spring-icon",
+          skillName: "Angular",
+          fontAwesomeClassname: "logos:angular-icon",
         },
+        // {
+        //   skillName: "spring-boot",
+        //   fontAwesomeClassname: "logos:spring-icon",
+        // },
       ],
     },
   ],
@@ -131,45 +129,45 @@ export const SkillBars = [
 
 export const educationInfo = [
   {
-    schoolName: "Akron University",
+    schoolName: "Bahria University Karachi Campus",
     subHeader: "Bachelor of Science in Computer Science",
-    duration: "August 2021 - Present",
-    grade: "3.8 GPA",
+    duration: "Feb 2018 - Feb 2022",
+    // grade: "3.8 GPA",
     desc: "Programming CIS degree",
     descBullets: [
-      "The Bachelor of Science in Computer Information Systems (CIS) - Programming degree option allows students to attain knowledge of effective software application development, client/server application development, and database application development and management for businesses.",
-      "The CIS - Programming degree option is designed to prepare students for careers in the field of software engineering and development.",
+      "The Bachelor of Science in Computer Science (BSCS) - Programming degree option allows students to attain knowledge of effective software application development, client/server application development, and database application development and management for businesses.",
+      "The CS - Programming degree option is designed to prepare students for careers in the field of software engineering and development.",
     ],
     github: "https://github.com/BrendanGlancy/akron/",
   },
-  {
-    schoolName: "Tech Elevator",
-    subHeader: "Full Stack Development",
-    duration: "September 2020 - December 2020",
-    desc: "Programming Bootcamp to learn Full Stack Development",
-    descBullets: [
-      "  Object-Oriented Programming: Java",
-      "  Web Application Development: HTML, CSS, JavaScript, Vue.js, APIs using Spring Boot, Tomcat",
-      "  Database Programming: Spring JDBC/DAO, Table Design, SQL, PostgreSQL, E/R diagrams",
-      "  Completed 1000+ hours of Java, Spring, SQL, and JavaScript training",
-      "  Completed 100+ hours of pair programming on group projects",
-    ],
-    github: "https://github.com/BrendanGlancy/BreweryLocater",
-  },
+  // {
+  //   schoolName: "Tech Elevator",
+  //   subHeader: "Full Stack Development",
+  //   duration: "September 2020 - December 2020",
+  //   desc: "Programming Bootcamp to learn Full Stack Development",
+  //   descBullets: [
+  //     "  Object-Oriented Programming: Java",
+  //     "  Web Application Development: HTML, CSS, JavaScript, Vue.js, APIs using Spring Boot, Tomcat",
+  //     "  Database Programming: Spring JDBC/DAO, Table Design, SQL, PostgreSQL, E/R diagrams",
+  //     "  Completed 1000+ hours of Java, Spring, SQL, and JavaScript training",
+  //     "  Completed 100+ hours of pair programming on group projects",
+  //   ],
+  //   github: "https://github.com/BrendanGlancy/BreweryLocater",
+  // },
 ];
 
 export const experience = [
   {
-    role: "Information Technology",
-    company: "Chamber of Commerce",
+    role: "Associate Software Engineer",
+    company: "DineLine",
     companylogo: "/img/icons/common/chamber.jpeg",
-    date: "June 2019 – Present",
+    date: "June 2022 – Present",
     desc: "Communicate with managers to set up computers used on in the office, Assess and troubleshoot computer problems brought by managers, faculty a. Maintain upkeep of computers, servers, and 20+ websites used by the Chamber and local businesses",
   },
   {
     role: "Software Developer Intern",
     company: "OVS Knife Co.",
-    companylogo: "/img/icons/common/ovs.png",
+    companylogo: "/img/icons/common/kcomp.png",
     date: "December 2022",
     descBullets: [
       "  As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js.",
@@ -216,9 +214,10 @@ export const feedbacks = [
 ];
 
 export const seoData = {
-  title: "Brendan's Portfolio",
+  title: "Usama's Portfolio",
   description: "Full Stack Developer showcasing my work and experience.",
-  image: "https://avatars.githubusercontent.com/u/61941978?v=4",
+  image:
+    "https://img.freepik.com/premium-photo/islamic-ramadan-kareem-eid-greeting-background_91957-55.jpg?w=740",
   url: "https://brendanglancy.software/",
   keywords: [
     "Brendan Glancy",

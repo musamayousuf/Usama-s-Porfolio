@@ -1,6 +1,8 @@
 import React, { useEffect } from "react";
 import { greetings } from "../portfolio";
 import dynamic from "next/dynamic";
+import Image from "next/image";
+import mypic from "../public/img/icons/common/mypic1.png";
 
 const ParticleBg = dynamic(() => import("particles-bg"), {
   ssr: false,
@@ -52,6 +54,7 @@ const Greetings = () => {
                 </Col>
                 <Col lg="6">
                   <GreetingLottie animationPath="/lottie/coding.json" />
+                  {/* <Image src={mypic} /> */}
                 </Col>
               </Row>
             </div>
