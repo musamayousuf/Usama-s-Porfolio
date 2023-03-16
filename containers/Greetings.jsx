@@ -60,7 +60,10 @@ const Greetings = () => {
             </div>
           </Container>
           {/* SVG separator */}
-          <div className="separator separator-bottom separator-skew">
+          <div
+            className="separator separator-bottom separator-skew"
+            style={{ opacity: 1 }}
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               preserveAspectRatio="none"

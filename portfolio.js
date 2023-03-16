@@ -229,7 +229,7 @@ export const projects = [
     img: "http://anastomosisdesignlab.com/static/media/footer.c6a5c87f01415ac23a86.png",
     link: "http://anastomosisdesignlab.com/",
     tags: ["React Js"],
-    screen: "/img/icons/common/anastomosis.PNG",
+    screen: "https://ibb.co/bQmgcTN",
   },
   {
     name: "Tradexco",
