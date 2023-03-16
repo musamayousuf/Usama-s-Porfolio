@@ -43,14 +43,13 @@ const Greetings = () => {
                     <Button
                       className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                       color="default"
-                      href={greetings.resumeLink}
+                      href="/files/Usama.pdf"
+                      download
                     >
                       <span className="btn-inner--icon mr-1">
-                        <i className="fa fa-file" />
+                        <i className="fa fa-download" />
                       </span>
-                      <a href="/files/Usama.pdf" download>
-                        See My Resume
-                      </a>
+                      <a>See My Resume</a>
                     </Button>
                   </div>
                 </Col>
