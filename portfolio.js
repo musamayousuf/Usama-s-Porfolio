@@ -203,7 +203,7 @@ export const projects = [
     name: "MicahGuru",
     // desc: "Contributor on Empyrial, Empyrial is a Python-based open-source quantitative investment library dedicated to financial institutions and retail investors, officially released in March 2021. Already used by thousands of people working in the finance industry, Empyrial aims to become an all-in-one platform for portfolio management, analysis, and optimization.",
     link: "https://micahguru.co.uk",
-    screen: "/img/icons/common/micah.PNG",
+    screen: "https://ziaarsalan.github.io/static/media/Micahguru.58eeb7ce.png",
     img: "https://micahguru.co.uk/wp-content/uploads/2022/12/logo-1.png",
     tags: ["Vue Js", "Node Js", "NoSql"],
   },
@@ -212,7 +212,7 @@ export const projects = [
     // desc: "Personal Website built with Astro, Svelte, and JavaScript. Collaborated with a fellow Akron University student to build a website for a friend. Contains a blog of writeups for challenges done by the CTF team",
     link: "https://airtap.ca",
     img: "https://airtap.ca/wp-content/uploads/2022/03/Logo-W.svg",
-    screen: "/img/icons/common/airtap.PNG",
+    screen: "https://ziaarsalan.github.io/static/media/airtap.1754ad98.png",
     tags: ["React Js", "Node Js", "NoSql"],
   },
   {
@@ -230,6 +230,14 @@ export const projects = [
     link: "http://anastomosisdesignlab.com/",
     tags: ["React Js"],
     screen: "/img/icons/common/anastomosis.PNG",
+  },
+  {
+    name: "Tradexco",
+    // desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
+    img: "https://tradexco.com.au/wp-content/uploads/2022/03/tradex-logo-custom-sportswear-in-australia.webp",
+    link: "https://tradexco.com.au/",
+    tags: ["React Js"],
+    screen: "https://ziaarsalan.github.io/static/media/tradexco.d271c83e.png",
   },
 ];
 
