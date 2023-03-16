@@ -48,7 +48,15 @@ const Greetings = () => {
                       <span className="btn-inner--icon mr-1">
                         <i className="fa fa-file" />
                       </span>
-                      <span className="btn-inner--text">See My Resume</span>
+                      <a
+                        href="/files/Usama.pdf"
+                        alt="alt text"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="btn-inner--text"
+                      >
+                        See My Resume
+                      </a>
                     </Button>
                   </div>
                 </Col>
