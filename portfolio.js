@@ -195,7 +195,7 @@ export const projects = [
     name: "Stretto",
     img: "https://www.stretto.com/wp-content/uploads/2020/11/logo.svg",
     // desc: "A web application that allows users to search and review breweries in the United States. Users can search for breweries by name, city, state, or zip code. Users can also add breweries to their favorites list and leave reviews for breweries.",
-    screen: "/img/icons/common/stretto.png",
+    screen: "/img/icons/common/stretto.PNG",
     link: "https://stretto.com",
     tags: ["React Js", ".net", "PostgreSQL"],
   },
@@ -203,7 +203,7 @@ export const projects = [
     name: "MicahGuru",
     // desc: "Contributor on Empyrial, Empyrial is a Python-based open-source quantitative investment library dedicated to financial institutions and retail investors, officially released in March 2021. Already used by thousands of people working in the finance industry, Empyrial aims to become an all-in-one platform for portfolio management, analysis, and optimization.",
     link: "https://micahguru.co.uk",
-    screen: "/img/icons/common/micah.png",
+    screen: "/img/icons/common/micah.PNG",
     img: "https://micahguru.co.uk/wp-content/uploads/2022/12/logo-1.png",
     tags: ["Vue Js", "Node Js", "NoSql"],
   },
@@ -212,7 +212,7 @@ export const projects = [
     // desc: "Personal Website built with Astro, Svelte, and JavaScript. Collaborated with a fellow Akron University student to build a website for a friend. Contains a blog of writeups for challenges done by the CTF team",
     link: "https://airtap.ca",
     img: "https://airtap.ca/wp-content/uploads/2022/03/Logo-W.svg",
-    screen: "/img/icons/common/airtap.png",
+    screen: "/img/icons/common/airtap.PNG",
     tags: ["React Js", "Node Js", "NoSql"],
   },
   {
@@ -220,7 +220,7 @@ export const projects = [
     // desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
     link: "https://takafulbazaar.pk",
     img: "https://takafulbazaar.pk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.4eecf003.png&w=256&q=75",
-    screen: "/img/icons/common/takaful.png",
+    screen: "/img/icons/common/takaful.PNG",
     tags: ["Next Js", "Node Js", "NoSql"],
   },
   {
@@ -229,7 +229,7 @@ export const projects = [
     img: "http://anastomosisdesignlab.com/static/media/footer.c6a5c87f01415ac23a86.png",
     link: "http://anastomosisdesignlab.com/",
     tags: ["React Js"],
-    screen: "/img/icons/common/anastomosis.png",
+    screen: "/img/icons/common/anastomosis.PNG",
   },
 ];
 
