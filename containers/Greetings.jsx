@@ -18,6 +18,7 @@ const Greetings = () => {
     document.documentElement.scrollTop = 0;
     document.scrollingElement.scrollTop = 0;
   });
+
   return (
     <main>
       <div className="position-relative">

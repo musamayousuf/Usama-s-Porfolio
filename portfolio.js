@@ -160,7 +160,8 @@ export const experience = [
   {
     role: "Associate Software Engineer",
     company: "Devtronics",
-    companylogo: "",
+    companylogo:
+      "https://scontent.fkhi16-1.fna.fbcdn.net/v/t39.30808-6/337389642_918368645944806_2191227997926280556_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH0_xrhDdCri8q5XK6kcrU_JV3vljg1zQQlXe-WODXNBFFgOpfceylULScXOqKm_14SJeynZSaXvnd6D21Ekqrk&_nc_ohc=18XbY-PnXkAAX_XBZAk&_nc_ht=scontent.fkhi16-1.fna&oh=00_AfBh1hqfCqGcPMPmkpUqzk2RgMrp6UUC20bjVfeWx3xUxA&oe=641F36E7",
     date: "May 2022 – Present",
     descBullets: [
       "  Identified web-based user interactions and developed highly-responsive user interface components via React concepts.",
@@ -170,7 +171,8 @@ export const experience = [
   {
     role: "Jr. Software Engineer",
     company: "KCompute (Pvt) Ltd",
-    companylogo: "/img/icons/common/kcomp.png",
+    companylogo:
+      "https://scontent.fkhi16-1.fna.fbcdn.net/v/t39.30808-6/337397262_547499200839946_987900686842682492_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEcTgeA6Sx-a-1_e74ptdb2JcjolqJ18SQlyOiWonXxJFEk8NTqql2fN1IOGc6fLjzhoYda2i_hh_Lw_nIFbtIz&_nc_ohc=zfVS48yOgagAX_s6akO&_nc_ht=scontent.fkhi16-1.fna&oh=00_AfA9MoZPZG8_ttzK4w_Gbrijvm2wMZxl6gz2DmvQXBcPQA&oe=641E8F17",
     date: "Jan 2022 - May 2022 ",
     descBullets: [
       "  As a Jr. Software Engineer at KCOMPUTE (PRIVATE) LIMITED , I am responsible for creating new features, functionality, and capabilities on the website in React Js.",
