@@ -195,7 +195,8 @@ export const projects = [
     name: "Stretto",
     img: "https://www.stretto.com/wp-content/uploads/2020/11/logo.svg",
     // desc: "A web application that allows users to search and review breweries in the United States. Users can search for breweries by name, city, state, or zip code. Users can also add breweries to their favorites list and leave reviews for breweries.",
-    screen: "/img/icons/common/stretto.png",
+    screen:
+      "https://scontent.fkhi17-1.fna.fbcdn.net/v/t39.30808-6/337356244_1962259684125657_2784096818003807527_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFZtqZTc1UgskzzBoUQ7leiV2WkPKguiJxXZaQ8qC6InPyUfCuCymYKgIPdpOLlPfAwCnFa6H0CKUxA5hKeO4Ji&_nc_ohc=Ap35Vzm7QsgAX9qVtCT&_nc_ht=scontent.fkhi17-1.fna&oh=00_AfCndwokAfjMy70AciRCPv99Mpo8Um5xqPCnlt9-klg4IA&oe=641F91D8",
     link: "https://stretto.com",
     tags: ["React Js", ".net", "PostgreSQL"],
   },
@@ -220,7 +221,8 @@ export const projects = [
     // desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
     link: "https://takafulbazaar.pk",
     img: "https://takafulbazaar.pk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.4eecf003.png&w=256&q=75",
-    screen: "/img/icons/common/takaful.png",
+    screen:
+      "https://scontent.fkhi17-1.fna.fbcdn.net/v/t39.30808-6/336785881_2290295574465753_8969404032188596541_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEDW57VGL8kY0Z_zL3A5jbDpWt3R2ynyTKla3dHbKfJMsAcKuTZf9-a4hBnBt8ZGM9dSsP_nukzOExkWukZ2fp8&_nc_ohc=Kz4uQIeuQMYAX9NW0uG&_nc_ht=scontent.fkhi17-1.fna&oh=00_AfB3Z1QYs81yT11Bka5-glsD00Q5rDvxllhBQ1sniS5PRw&oe=641EBC0E",
     tags: ["Next Js", "Node Js", "NoSql"],
   },
   {
