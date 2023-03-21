@@ -229,7 +229,8 @@ export const projects = [
     img: "http://anastomosisdesignlab.com/static/media/footer.c6a5c87f01415ac23a86.png",
     link: "http://anastomosisdesignlab.com/",
     tags: ["React Js"],
-    // screen: "/img/icons/common/anastomosis.png",
+    screen:
+      "https://scontent.fkhi17-1.fna.fbcdn.net/v/t39.30808-6/337370547_919114685880158_7395981393637871542_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGkrTtTG9FvmXPX1paMXa-dIk3YRm-DrvsiTdhGb4Ou-6PCuO2Qdijtm4JJCpGeEs5MxMkb-Y09lwUiBtZDxojr&_nc_ohc=p3jwYgqPgFYAX98o_Zb&_nc_ht=scontent.fkhi17-1.fna&oh=00_AfAcl4A8ku_7dWIR7NSu4JPWUMnS8_0Iyhnh6LXmHoItog&oe=641EC50C",
   },
   {
     name: "Tradexco",
