@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { greetings } from "../portfolio";
 import dynamic from "next/dynamic";
 import Image from "next/image";
-import mypic from "../public/img/icons/common/mypic1.png";
+import mypic1 from "../public/img/icons/common/mypic.png";
 
 const ParticleBg = dynamic(() => import("particles-bg"), {
   ssr: false,
@@ -30,7 +30,7 @@ const Greetings = () => {
             <span />
             <ParticleBg type="polygon" bg={true} num={1} />
           </div>
-          <Container className="py-lg-md d-flex">
+          <Container className="py-lg-md d-flex ">
             <div className="col px-0">
               <Row>
                 <Col lg="6">
@@ -54,8 +54,10 @@ const Greetings = () => {
                   </div>
                 </Col>
                 <Col lg="6">
-                  <GreetingLottie animationPath="/lottie/coding.json" />
-                  {/* <Image src={mypic} /> */}
+                  {/* <GreetingLottie animationPath="/lottie/coding.json" /> */}
+                  <div style={{ float: "right" }}>
+                    <Image src={mypic1} className="mypic" />
+                  </div>
                 </Col>
               </Row>
             </div>

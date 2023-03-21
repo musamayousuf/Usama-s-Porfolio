@@ -16,7 +16,7 @@ export const contact = {};
 
 export const socialLinks = {
   github: "https://github.com/musamayousuf",
-  linkedin: "https://www.linkedin.com/in/usama-yousuf6899b1203",
+  linkedin: "https://linkedin.com/in/usama-yousuf-6899b1203",
   instagram: "https://www.instagram.com/musamayousuf/",
 };
 
@@ -159,8 +159,8 @@ export const educationInfo = [
 export const experience = [
   {
     role: "Associate Software Engineer",
-    company: "DineLine",
-    companylogo: "/img/icons/common/chamber.jpeg",
+    company: "Devtronics",
+    companylogo: "",
     date: "May 2022 – Present",
     descBullets: [
       "  Identified web-based user interactions and developed highly-responsive user interface components via React concepts.",
@@ -195,7 +195,7 @@ export const projects = [
     name: "Stretto",
     img: "https://www.stretto.com/wp-content/uploads/2020/11/logo.svg",
     // desc: "A web application that allows users to search and review breweries in the United States. Users can search for breweries by name, city, state, or zip code. Users can also add breweries to their favorites list and leave reviews for breweries.",
-    screen: "/img/icons/common/stretto.PNG",
+    screen: "/img/icons/common/stretto.png",
     link: "https://stretto.com",
     tags: ["React Js", ".net", "PostgreSQL"],
   },
@@ -211,7 +211,7 @@ export const projects = [
     name: "AirTap",
     // desc: "Personal Website built with Astro, Svelte, and JavaScript. Collaborated with a fellow Akron University student to build a website for a friend. Contains a blog of writeups for challenges done by the CTF team",
     link: "https://airtap.ca",
-    img: "https://airtap.ca/wp-content/uploads/2022/03/Logo-W.svg",
+    img: "https://devtronics.co/assets/img/demo/vodafone.png",
     screen: "https://ziaarsalan.github.io/static/media/airtap.1754ad98.png",
     tags: ["React Js", "Node Js", "NoSql"],
   },
@@ -220,16 +220,16 @@ export const projects = [
     // desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
     link: "https://takafulbazaar.pk",
     img: "https://takafulbazaar.pk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.4eecf003.png&w=256&q=75",
-    screen: "/img/icons/common/takaful.PNG",
+    screen: "/img/icons/common/takaful.png",
     tags: ["Next Js", "Node Js", "NoSql"],
   },
   {
-    name: "Anastomosis DesignLab",
+    name: "Anastomosis",
     // desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
     img: "http://anastomosisdesignlab.com/static/media/footer.c6a5c87f01415ac23a86.png",
     link: "http://anastomosisdesignlab.com/",
     tags: ["React Js"],
-    screen: "https://ibb.co/bQmgcTN",
+    // screen: "/img/icons/common/anastomosis.png",
   },
   {
     name: "Tradexco",
