@@ -609,10 +609,60 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
+.imac {
+  padding: 4% 6%;
+  margin: 0 auto;
+  max-width: 220px;
+}
+.mypic {
+  border-radius: 100%;
+}
+.screen {
+  background: #000;
+  /* for aspect ratio */
+  position: relative;
+     width: 24vw;
+    height: 35vh;
+}
+
+.screen:before {
+  content: "";
+  display: block;
+  /* for aspect ratio ~3:5 */
+  padding-top: 60%;
+}
+
+.viewport {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: 4%;
+  background: #333;
+}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
   }
+ .screen {
+  background: #000;
+  /* for aspect ratio */
+  position: relative;
+     width: 24vw;
+    height: 35vh;
+}
+}
+@media (max-width: 425px) {
+
+ .screen {
+  background: #000;
+  /* for aspect ratio */
+  position: relative;
+      width: 62vw;
+    height: 50vh;
+}
 }
 @media (min-width: 768px) {
   .container {
@@ -5732,35 +5782,7 @@ a.badge-darker.focus {
   background-color: #313b77;
   border-color: #313b77;
 }
-.imac {
-  padding: 4% 6%;
-  margin: 0 auto;
-  max-width: 220px;
-}
-.mypic{border-radius: 100%;}
-.screen {
-  background: #000;
-  /* for aspect ratio */
-  position: relative;
-  width: 100%;
-}
 
-.screen:before {
-  content: "";
-  display: block;
-  /* for aspect ratio ~3:5 */
-  padding-top: 60%;
-}
-
-.viewport {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 0;
-  margin: 4%;
-  background: #333;
-}
 
 /* Screenshot Hover Scroll Additions
 -------------------------------------------------------------- */
@@ -7069,6 +7091,7 @@ button.bg-darker:focus {
 }
 
 @media (min-width: 576px) {
+ 
   .d-sm-none {
     display: none !important;
   }
@@ -7158,7 +7181,7 @@ button.bg-darker:focus {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1200px) { 
   .d-xl-none {
     display: none !important;
   }

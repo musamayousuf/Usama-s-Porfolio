@@ -30,7 +30,7 @@ const ProjectsCard = ({ data }) => {
                 /> */}
                   <div
                     className="screen"
-                    style={{ width: "23rem", height: "15rem" }}
+                    // style={{ width: "23vw", height: "34vh" }}
                   >
                     <div
                       className="viewport"
