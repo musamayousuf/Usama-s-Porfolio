@@ -159,9 +159,9 @@ export const educationInfo = [
 export const experience = [
   {
     role: "Associate Software Engineer",
-    company: "Devtronics",
+    company: "FixMyOnline (UK)",
     companylogo:
-      "https://scontent.fkhi16-1.fna.fbcdn.net/v/t39.30808-6/337389642_918368645944806_2191227997926280556_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH0_xrhDdCri8q5XK6kcrU_JV3vljg1zQQlXe-WODXNBFFgOpfceylULScXOqKm_14SJeynZSaXvnd6D21Ekqrk&_nc_ohc=18XbY-PnXkAAX_XBZAk&_nc_ht=scontent.fkhi16-1.fna&oh=00_AfBh1hqfCqGcPMPmkpUqzk2RgMrp6UUC20bjVfeWx3xUxA&oe=641F36E7",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmKvhFY9wO_9P12gcruxZVUbY8WckjDnrCrg&usqp=CAU",
     date: "May 2022 – Present",
     descBullets: [
       "  Identified web-based user interactions and developed highly-responsive user interface components via React concepts.",
@@ -171,8 +171,7 @@ export const experience = [
   {
     role: "Jr. Software Engineer",
     company: "KCompute (Pvt) Ltd",
-    companylogo:
-      "https://scontent.fkhi16-1.fna.fbcdn.net/v/t39.30808-6/337397262_547499200839946_987900686842682492_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEcTgeA6Sx-a-1_e74ptdb2JcjolqJ18SQlyOiWonXxJFEk8NTqql2fN1IOGc6fLjzhoYda2i_hh_Lw_nIFbtIz&_nc_ohc=zfVS48yOgagAX_s6akO&_nc_ht=scontent.fkhi16-1.fna&oh=00_AfA9MoZPZG8_ttzK4w_Gbrijvm2wMZxl6gz2DmvQXBcPQA&oe=641E8F17",
+    companylogo: "http://www.kcompute.com/themes/kcompute/images/logo.svg",
     date: "Jan 2022 - May 2022 ",
     descBullets: [
       "  As a Jr. Software Engineer at KCOMPUTE (PRIVATE) LIMITED , I am responsible for creating new features, functionality, and capabilities on the website in React Js.",
@@ -182,8 +181,7 @@ export const experience = [
   {
     role: "Software Developer Intern",
     company: "Akseer Research (Pvt) Ltd",
-    companylogo:
-      "https://www.akseerresearch.com/wp-content/themes/research_wp/assets/images/logo.png",
+    companylogo: "	https://www.akseerresearch.com/assets/images/logo.png",
     date: "December 2022",
     descBullets: [
       "  As a Software Developer Intern at Akseer Research (Pvt) Ltd, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Front-End.",
@@ -198,7 +196,7 @@ export const projects = [
     img: "https://www.stretto.com/wp-content/uploads/2020/11/logo.svg",
     // desc: "A web application that allows users to search and review breweries in the United States. Users can search for breweries by name, city, state, or zip code. Users can also add breweries to their favorites list and leave reviews for breweries.",
     screen:
-      "https://scontent.fkhi17-1.fna.fbcdn.net/v/t39.30808-6/337356244_1962259684125657_2784096818003807527_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFZtqZTc1UgskzzBoUQ7leiV2WkPKguiJxXZaQ8qC6InPyUfCuCymYKgIPdpOLlPfAwCnFa6H0CKUxA5hKeO4Ji&_nc_ohc=Ap35Vzm7QsgAX9qVtCT&_nc_ht=scontent.fkhi17-1.fna&oh=00_AfCndwokAfjMy70AciRCPv99Mpo8Um5xqPCnlt9-klg4IA&oe=641F91D8",
+      "https://previews.dropbox.com/p/thumb/AB-XyYovWphZxlKkYISBGnbUlyUZyj4bzUSdqGRuPH_P_cLYdiHnOkrjX6LJ_zmxIYvPzJK2wMob_oyGBORv3EybFcnxIJTc6JvXIzyWfQIkTlYFh4fb26n8Yv4gD81WDeRCyG0zjNf5WXScmrjZh5E2qa0UJRKD27E-RcrCqy6_qYEhllsKqQzoqV3f9aObOsBU6xiGkSIiOrOZiQs34JOnIgtCLD9ZWjXDbJZAFI9UW2apx9P7sedrlWfjBhZDG9lAb_Z3dVeptpE1c2mHa91u9xJu2R01gEwiLSu_dL7O9IjhXsJSxrwQJyovoYTGmj45zZCbZ5cCkog_HITc5-cv/p.png",
     link: "https://stretto.com",
     tags: ["React Js", ".net", "PostgreSQL"],
   },
@@ -222,19 +220,19 @@ export const projects = [
     name: "Takaful Bazaar",
     // desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
     link: "https://takafulbazaar.pk",
-    img: "https://takafulbazaar.pk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.4eecf003.png&w=256&q=75",
+    img: "https://previews.dropbox.com/p/thumb/AB9FKO790Qx4Q7dzYuq3jyyILyAVTZMCfYTohaDOreZpEvU0XMkXPYm3tKAfmlkizjRCh_seizKqPtN11CbbOUpA-8XhK7_VoHlcdKlYAUksA3EQTLJXkgcXh-pAeTVZSYzilH6QqA6Dj0e-W1xmdr_a8Oqnafu2OqDbrPs-dh39P_L-gcjRrLqpW8aBm5IYFpS_TzTt7FNYxhza1QmtLFNpU50cE_L2dEO0uTOpL8WaLAp45dz_zGvanRcBI0BfPEYCvCu3W8bdBuTrtRwbWbYuHVI04D0vFMWCRW6wOA16E4hXEYSpf7aLOvCxOzZct9fGcb6JWdBIeTMoRwfYaTBP/p.png",
     screen:
-      "https://scontent.fkhi17-1.fna.fbcdn.net/v/t39.30808-6/336785881_2290295574465753_8969404032188596541_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEDW57VGL8kY0Z_zL3A5jbDpWt3R2ynyTKla3dHbKfJMsAcKuTZf9-a4hBnBt8ZGM9dSsP_nukzOExkWukZ2fp8&_nc_ohc=Kz4uQIeuQMYAX9NW0uG&_nc_ht=scontent.fkhi17-1.fna&oh=00_AfB3Z1QYs81yT11Bka5-glsD00Q5rDvxllhBQ1sniS5PRw&oe=641EBC0E",
+      "https://previews.dropbox.com/p/thumb/AB-XyYovWphZxlKkYISBGnbUlyUZyj4bzUSdqGRuPH_P_cLYdiHnOkrjX6LJ_zmxIYvPzJK2wMob_oyGBORv3EybFcnxIJTc6JvXIzyWfQIkTlYFh4fb26n8Yv4gD81WDeRCyG0zjNf5WXScmrjZh5E2qa0UJRKD27E-RcrCqy6_qYEhllsKqQzoqV3f9aObOsBU6xiGkSIiOrOZiQs34JOnIgtCLD9ZWjXDbJZAFI9UW2apx9P7sedrlWfjBhZDG9lAb_Z3dVeptpE1c2mHa91u9xJu2R01gEwiLSu_dL7O9IjhXsJSxrwQJyovoYTGmj45zZCbZ5cCkog_HITc5-cv/p.png",
     tags: ["Next Js", "Node Js", "NoSql"],
   },
   {
     name: "Anastomosis",
     // desc: "As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js, I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
-    img: "http://anastomosisdesignlab.com/static/media/footer.c6a5c87f01415ac23a86.png",
+    img: "https://previews.dropbox.com/p/thumb/AB9LnYtB-udlWpRc7eVk5jv4PUpldvjbh8k7QM6CLUmJPIGelscIAYobst2Vgkw9gKvsSRLDtc0LGXoO1qFof832hThYvzkiAJMxuKIl6E9fCtv3fjZ8nKPiiVGGMUwq7bIot2D4iIArtTOijHH8iop124DpfLu78gRx6WU9LuC8A07iqMkmRRvUrqn4sBL04V1IiOHFTJkUTaiCnu6Sias7MbMmHx4HAhqzbiiYhJY62lfq8RD2khNGeehgsDWqgGec1nTwaK4mrmGbUKkIfaY7rmgHz_VEt58JozL6T18mAxbdnFSJQhFnQXWAbx5OIj3ez-M5nXYgIBYRVjeRYWre/p.png",
     link: "http://anastomosisdesignlab.com/",
     tags: ["React Js"],
     screen:
-      "https://scontent.fkhi17-1.fna.fbcdn.net/v/t39.30808-6/337370547_919114685880158_7395981393637871542_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGkrTtTG9FvmXPX1paMXa-dIk3YRm-DrvsiTdhGb4Ou-6PCuO2Qdijtm4JJCpGeEs5MxMkb-Y09lwUiBtZDxojr&_nc_ohc=p3jwYgqPgFYAX98o_Zb&_nc_ht=scontent.fkhi17-1.fna&oh=00_AfAcl4A8ku_7dWIR7NSu4JPWUMnS8_0Iyhnh6LXmHoItog&oe=641EC50C",
+      "https://previews.dropbox.com/p/thumb/AB9LnYtB-udlWpRc7eVk5jv4PUpldvjbh8k7QM6CLUmJPIGelscIAYobst2Vgkw9gKvsSRLDtc0LGXoO1qFof832hThYvzkiAJMxuKIl6E9fCtv3fjZ8nKPiiVGGMUwq7bIot2D4iIArtTOijHH8iop124DpfLu78gRx6WU9LuC8A07iqMkmRRvUrqn4sBL04V1IiOHFTJkUTaiCnu6Sias7MbMmHx4HAhqzbiiYhJY62lfq8RD2khNGeehgsDWqgGec1nTwaK4mrmGbUKkIfaY7rmgHz_VEt58JozL6T18mAxbdnFSJQhFnQXWAbx5OIj3ez-M5nXYgIBYRVjeRYWre/p.png",
   },
   {
     name: "Tradexco",
